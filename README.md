@@ -1,3 +1,4 @@
+![logo](https://github.com/Balaraju-ankam/Balaraju-ankam/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Balaraju Ankam</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
