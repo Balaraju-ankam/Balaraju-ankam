@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balaraju Ankam</h1>
 <h3 align="center">A passionate devops learner</h3>
 
-<img align="right" alt="analyst" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaraju-ankam&label=Profile%20views&color=0e75b6&style=flat" alt="balaraju-ankam" /> </p>
 
